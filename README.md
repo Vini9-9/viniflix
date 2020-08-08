@@ -1,14 +1,14 @@
 ## imersao-react
 #Projeto desenvolvido na Imersão React da Alura
 
-Aula 01
+Aula 01 - React Components e AluraFlix
 
    * Iniciar um projeto com Create React App (CRA);
    * Criar components com React usando styled-components;
    * Passar propriedades para components;
    * Fazer deploy da Viniflix na Vercel. (https://my-viniflix.vercel.app/)
     
-Aula 02
+Aula 02 - Roteamento e state
 
    * Entender o que é um SPA;
    * Utilizaremos a react-router-dom para controlar as rotas;
