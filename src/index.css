@@ -29,3 +29,13 @@ a {
   display: flex;
   flex-direction: column;
 }
+
+ .page404 iframe {
+  border: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+ 
