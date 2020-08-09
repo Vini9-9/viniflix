@@ -1,5 +1,5 @@
-## imersao-react
-#Projeto desenvolvido na Imersão React da Alura
+# imersao-react 
+# Projeto desenvolvido na Imersão React da Alura
 
 Aula 01 - React Components e AluraFlix
 
@@ -18,3 +18,7 @@ Aula 02 - Roteamento e state
    * Criaremos um template com o cabelho e o rodapé;
    * Como deixar sempre o footer embaixo na página;
    * Criação do formulário para casdastrar categoria;
+
+Aula 03 - Formulários reutilizáveis e mais components
+
+  * Trabalhar com elementos dinâmicos na tela da nossa aplicação.
