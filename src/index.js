@@ -9,8 +9,6 @@ import CadastroCategoria from './pages/cadastro/Categoria'
 
 const Pagina404 = () => (
     <section className="page404">
-      {/* <h1> Page 404</h1>
-      <h2> Aqui está meu jogo da Imersão Game Dev </h2> */}
       <iframe src="https://editor.p5js.org/Suiciniv99/embed/3hQ_AMqwp" allowfullscreen></iframe>
     </section>              );
 
