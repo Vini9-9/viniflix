@@ -20,9 +20,14 @@ Aula 02 - Roteamento e state
 
 Aula 03 - Formulários reutilizáveis e mais components
 
-  * Trabalhar com elementos dinâmicos na tela da nossa aplicação.
+  * Trabalhar com elementos dinâmicos na tela da nossa aplicação;
   
 Aula 04 - Ajax, validação e o back-end
 
-  * Garantindo padrões de código com EsLint
-  * Configurando o nosso servidor portátil com json-server
+  * Garantindo padrões de código com EsLint;
+  * Configurando o nosso servidor portátil com json-server;
+  
+Aula 05 - Gerenciamento de videos com React e JavaScript
+
+  * Implementar a funcionalidade que tornará possível o cadastro de novos vídeos;
+  * Atualizar a home dinamicamente de acordo com o que for cadastrado;
